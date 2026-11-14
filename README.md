@@ -1,8 +1,8 @@
 # Release Notes Writer
 
 Turn a list of commits or tickets into release notes written for the people who use the product.
-**[Try it live](https://eidos-lab-fr.github.io/release-notes-writer/)**
 
+**[Website](https://eidos-lab-fr.github.io/release-notes-writer/about.html)** · **[Open the app](https://eidos-lab-fr.github.io/release-notes-writer/)**
 
 ## Features
 
